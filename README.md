@@ -1,6 +1,7 @@
 Building two mini projectss on AWS
 1) ChatBot for order food using AWS'S lex service
 Here are the steps
+
 1.Creating the Bot
 2.Creating Intents
 3. Creating Slot
